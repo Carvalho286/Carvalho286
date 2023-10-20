@@ -14,7 +14,7 @@ Currently I'm getting my degree on Informatic Engennering, and in my free time, 
 
 Whenever I have some free time, I love diving into different projects and playing around with various technologies and frameworks. The thing is, I tend to start a bunch of random stuff but rarely finish them. Still, I find it exciting to learn new things while working on these projects.
 
-### What are your projects?
+### What are my projects?
 
 I mostly work on personal projects that I don't make public. However, the ones I do release are usually at least (almost) complete.
 
