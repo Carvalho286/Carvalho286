@@ -22,7 +22,7 @@ You can check my repositories [here](https://github.com/Carvalho286?tab=reposito
 
 ### Want to work together?
 
-If you're interested in working together on a project or just want to chat, feel free to hit me up at [carvalhomiguel286@gmail.com](mailto:carvalhomiguel286@gmail.com) or via [Discord](https://discord.com/users/280990969460031488)!
+If you're interested in working together on a project or just want to chat, feel free to hit me up via [email](mailto:carvalhomiguel286@gmail.com) or via [Discord](https://discord.com/users/280990969460031488)!
 
 </div>
 
